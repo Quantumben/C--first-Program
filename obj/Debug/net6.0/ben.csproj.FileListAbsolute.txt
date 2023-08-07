@@ -1,0 +1,15 @@
+/home/quantumben/Desktop/C#/ben/bin/Debug/net6.0/ben
+/home/quantumben/Desktop/C#/ben/bin/Debug/net6.0/ben.deps.json
+/home/quantumben/Desktop/C#/ben/bin/Debug/net6.0/ben.runtimeconfig.json
+/home/quantumben/Desktop/C#/ben/bin/Debug/net6.0/ben.dll
+/home/quantumben/Desktop/C#/ben/bin/Debug/net6.0/ref/ben.dll
+/home/quantumben/Desktop/C#/ben/bin/Debug/net6.0/ben.pdb
+/home/quantumben/Desktop/C#/ben/obj/Debug/net6.0/ben.csproj.AssemblyReference.cache
+/home/quantumben/Desktop/C#/ben/obj/Debug/net6.0/ben.GeneratedMSBuildEditorConfig.editorconfig
+/home/quantumben/Desktop/C#/ben/obj/Debug/net6.0/ben.AssemblyInfoInputs.cache
+/home/quantumben/Desktop/C#/ben/obj/Debug/net6.0/ben.AssemblyInfo.cs
+/home/quantumben/Desktop/C#/ben/obj/Debug/net6.0/ben.csproj.CoreCompileInputs.cache
+/home/quantumben/Desktop/C#/ben/obj/Debug/net6.0/ben.dll
+/home/quantumben/Desktop/C#/ben/obj/Debug/net6.0/ref/ben.dll
+/home/quantumben/Desktop/C#/ben/obj/Debug/net6.0/ben.pdb
+/home/quantumben/Desktop/C#/ben/obj/Debug/net6.0/ben.genruntimeconfig.cache
